@@ -1,0 +1,175 @@
+{
+    "articles": [
+        {
+            "slug": "article-on-cypress-via-cypress-i5bdo7",
+            "title": "Saurabh - Article on cypress via cypress",
+            "description": "Article on cypress - Intercept",
+            "body": "Article on cypress - Intercept",
+            "createdAt": "2021-11-04T15:32:13.429Z",
+            "updatedAt": "2021-11-04T15:32:13.429Z",
+            "tagList": [],
+            "favorited": false,
+            "favoritesCount": 0,
+            "author": {
+                "username": "nimisha",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            }
+        },
+        {
+            "slug": "article-on-cypress-via-cypress-49rpgk",
+            "title": "Article on cypress via cypress",
+            "description": "Article on cypress - Intercept",
+            "body": "Article on cypress - Intercept",
+            "createdAt": "2021-11-04T15:29:00.132Z",
+            "updatedAt": "2021-11-04T15:29:00.132Z",
+            "tagList": [],
+            "favorited": false,
+            "favoritesCount": 0,
+            "author": {
+                "username": "nimisha",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            }
+        },
+        {
+            "slug": "article-on-cypress-via-cypress-n93z8s",
+            "title": "Article on cypress via cypress",
+            "description": "Article on cypress - Intercept",
+            "body": "Article on cypress - Intercept",
+            "createdAt": "2021-11-04T15:23:03.830Z",
+            "updatedAt": "2021-11-04T15:23:03.830Z",
+            "tagList": [],
+            "favorited": false,
+            "favoritesCount": 0,
+            "author": {
+                "username": "nimisha",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            }
+        },
+        {
+            "slug": "article-on-cypress-xp4f02",
+            "title": "Article on cypress",
+            "description": "Article on cypress - Intercept",
+            "body": "Article on cypress - Intercept",
+            "createdAt": "2021-10-26T08:10:51.913Z",
+            "updatedAt": "2021-10-26T08:10:51.913Z",
+            "tagList": [],
+            "favorited": false,
+            "favoritesCount": 0,
+            "author": {
+                "username": "saurabh",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            }
+        },
+        {
+            "slug": "article-on-cypress-xfdchg",
+            "title": "Article on cypress",
+            "description": "Article on cypress - Intercept",
+            "body": "Article on cypress - Intercept",
+            "createdAt": "2021-10-26T08:08:54.916Z",
+            "updatedAt": "2021-10-26T08:08:54.916Z",
+            "tagList": [],
+            "favorited": false,
+            "favoritesCount": 0,
+            "author": {
+                "username": "saurabh",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            }
+        },
+        {
+            "slug": "article-on-cypress-d6w35t",
+            "title": "Article on cypress",
+            "description": "Article on cypress - Intercept",
+            "body": "Article on cypress - Intercept",
+            "createdAt": "2021-10-26T08:07:36.881Z",
+            "updatedAt": "2021-10-26T08:07:36.881Z",
+            "tagList": [],
+            "favorited": false,
+            "favoritesCount": 0,
+            "author": {
+                "username": "saurabh",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            }
+        },
+        {
+            "slug": "article-on-cypress-ejpnq",
+            "title": "Article on cypress",
+            "description": "Article on cypress - Intercept",
+            "body": "Article on cypress - Intercept",
+            "createdAt": "2021-10-26T08:07:18.406Z",
+            "updatedAt": "2021-10-26T08:07:18.406Z",
+            "tagList": [],
+            "favorited": false,
+            "favoritesCount": 0,
+            "author": {
+                "username": "saurabh",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            }
+        },
+        {
+            "slug": "article-on-cypress-hyeufm",
+            "title": "Article on cypress",
+            "description": "Article on cypress - Intercept",
+            "body": "Article on cypress - Intercept",
+            "createdAt": "2021-10-26T08:04:08.513Z",
+            "updatedAt": "2021-10-26T08:04:08.513Z",
+            "tagList": [],
+            "favorited": false,
+            "favoritesCount": 0,
+            "author": {
+                "username": "saurabh",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            }
+        },
+        {
+            "slug": "article-on-cypress-vxukak",
+            "title": "Article on cypress",
+            "description": "Article on cypress - Intercept",
+            "body": "Article on cypress - Intercept",
+            "createdAt": "2021-10-26T08:01:11.696Z",
+            "updatedAt": "2021-10-26T08:01:11.696Z",
+            "tagList": [],
+            "favorited": false,
+            "favoritesCount": 0,
+            "author": {
+                "username": "saurabh",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            }
+        },
+        {
+            "slug": "article-on-cypress--zac9cb",
+            "title": "Article on cypress",
+            "description": "Article on cypress - Intercept",
+            "body": "Article on cypress - Intercept",
+            "createdAt": "2021-10-26T07:59:59.238Z",
+            "updatedAt": "2021-10-26T07:59:59.238Z",
+            "tagList": [],
+            "favorited": false,
+            "favoritesCount": 0,
+            "author": {
+                "username": "saurabh",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            }
+        }
+    ],
+    "articlesCount": 22
+}

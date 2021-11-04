@@ -1,0 +1,4 @@
+{
+    "ignoreTestFiles" : ["**/1-*/**", "**/2-*/**"],
+    "baseUrl" : "http://localhost:3000"
+}
